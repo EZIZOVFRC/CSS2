@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: wheat;
+}
+.goose{
+    border-bottom: 2px solid blue;
+    text-align: center;
+}
+.full{
+    margin-left: 30%;
+    margin-right: 30%;
+}
+.content h5{
+    color: red;
+    line-height: 40px;
+}
